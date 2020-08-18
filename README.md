@@ -1,8 +1,11 @@
 # ☄Random Character Json File's for a weebs discord bot and easy to use!
-> Hello guys, follow this guide! [Click Here for go to json file. This just as example](https://github.com/Jovantri10/wibu/blob/master/src/weebchar.json), after go to json file, press the `raw` button for change that **as** rest api, and can to use [Click here to raw example](https://raw.githubusercontent.com/Jovantri10/wibu/master/src/weebchar.json). Easy? Try Now. Confused with code? We have some example here, scrool!
+> Hello guys, follow this guide!
+1. [Click Here for go to json file. This just as example](https://github.com/Jovantri10/wibu/blob/master/src/weebchar.json)
+2. After that, go to json file, press the `raw` button for change that **as** rest api, and can to use 
+3. [Click here to raw example](https://raw.githubusercontent.com/Jovantri10/wibu/master/src/weebchar.json). Easy? Try Now. Confused with code? We have some example here, scrool!
 
 # Python Example
-## main.py
+> main.py
 ``` python
 import discord, os, random
 from discord.ext import commands
@@ -21,5 +24,5 @@ async def animecharacter(ctx):
 UWU = os.environ.get("TOKEN")
 weebs.login(UWU)
 ```
-## .env
+> .env
 ```TOKEN = YOU_BOT_TOKEN```
