@@ -25,4 +25,6 @@ UWU = os.environ.get("TOKEN")
 weebs.login(UWU)
 ```
 > .env
-```TOKEN = YOU_BOT_TOKEN```
+``` env
+TOKEN = YOU_BOT_TOKEN
+```
