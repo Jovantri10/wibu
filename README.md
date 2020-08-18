@@ -1,4 +1,4 @@
-☄Random Character Json File's for a weebs discord bot and easy to use!
+# ☄Random Character Json File's for a weebs discord bot and easy to use!
 > Hello guys, follow this guide! [Click Here for go to json file. This just as example](https://github.com/Jovantri10/wibu/blob/master/src/weebchar.json), after go to json file, press the `raw` button for change that **as** rest api, and can to use [Click here to raw example](https://raw.githubusercontent.com/Jovantri10/wibu/master/src/weebchar.json). Easy? Try Now. Confused with code? We have some example here, scrool!
 
 # Python Example
