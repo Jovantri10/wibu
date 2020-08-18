@@ -1,2 +1,1 @@
-# wibu
-weebs python package
+☄Random Character Json File's for a weebs discord bot and easy to use
